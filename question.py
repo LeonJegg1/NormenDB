@@ -24,22 +24,33 @@ def retrieve_embeddings():
     SELECT id, content, embedding <-> %s::vector AS distance
     FROM documents
     ORDER BY distance
-    LIMIT 1;
+    LIMIT 25;
     """, (response["embedding"], ))
 
-    results = cur.fetchone()
+    results = cur.fetchall()
     if results:
-        # data = results[1]
-        # print(data)
-        
-        output = ollama.generate(
-        model="llama3.1:8b",
-        prompt=f"Using this data: {results[1]}. Respond to this prompt: {prompt}"
-        )
-
-        print(output['response'])
+        # Berechnung der minimalen Distanz (Top-Ergebnis)
+        min_distance = results[0][2]
+        # Liste für relevante Ergebnisse initialisieren
+        relevant_results = []
+        for result in results:
+            id, content, distance = result
+            # Berechnung der prozentualen Abweichung vom Top-Ergebnis
+            deviation = ((distance - min_distance) / min_distance) * 100 if min_distance != 0 else 0
+            if deviation <= 10:
+                relevant_results.append(content)
+        if relevant_results:
+            # Übergabe aller relevanten Ergebnisse an das Modell
+            output = ollama.generate(
+                model="llama3.1:8b",
+                prompt=f"Using this data: {relevant_results}. Respond to this prompt: {prompt}"
+            )
+            print(output['response'])
+        else:
+            print("Keine relevanten Ergebnisse gefunden.")
     else:
-        print("No results found.")
+        print("Keine Ergebnisse gefunden.")
     
 if __name__ == "__main__":
-    retrieve_embeddings()
+    while True:
+        retrieve_embeddings()

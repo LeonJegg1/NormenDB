@@ -14,6 +14,8 @@ conn = psycopg2.connect(
 )
 cursor = conn.cursor()
 
+cursor.execute("CREATE EXTENSION IF NOT EXISTS vector;")
+
 # Tabelle "documents" erstellen, falls sie nicht existiert
 cursor.execute("""
     CREATE TABLE IF NOT EXISTS documents (
