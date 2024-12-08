@@ -4,9 +4,11 @@ import ollama
 import psycopg2
 from psycopg2 import sql
 
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 # Verbindung zur PostgreSQL-Datenbank herstellen
 conn = psycopg2.connect(
-    dbname="ragdb",
+    dbname="postgres",
     user="postgres",
     password="password",
     host="localhost",
