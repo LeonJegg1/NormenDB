@@ -1,0 +1,1740 @@
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DEUTSCHE NORM Februar 2017
+
+DIN EN 998-1
+
+ICS 91.100.10 Ersatz für
+DIN EN 998-1:2010-12
+Siehe Anwendungsbeginn
+
+Festlegungen für Mörtel im Mauerwerksbau -
+Teil 1: Putzmörtel;
+Deutsche Fassung EN 998-1:2016
+
+Specification for mortar for masonry -
+Part 1: Rendering and plastering mortar;
+German version EN 998-1:2016
+
+Definitions et specifications des mortiers pour maconnerie -
+Partie 1: Mortiers d’enduits mineraux exterieurs et interieurs;
+Version allemande EN 998-1:2016
+
+Gesamtumfang 30 Seiten
+
+DIN-Normenausschuss Bauwesen (NABau)
+
+© _ DIN Deutsches Institut für Normung e. V. - Jede Art der Vervielfältigung, auch auszugsweise, Preisgruppe 14
+nur mit Genehmigung des DIN Deutsches Institut für Normung e. V., Berlin, gestattet, "„ "| | II| "I |" |" | |I|
+2586280
+
+.din.d
+Alleinverkauf der Normen durch Beuth Verlag GmbH, 10772 Berlin www.din.de
+www.beuth,de
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+
+Anwendungsbeginn
+
+Anwendungsbeginn dieser Norm ist 2017-02-01.
+
+Die CE-Kennzeichnung von Bauprodukten nach dieser Norm kann erst nach der Veröffentlichung der
+Fundstelle dieser Norm im Amtsblatt der Europäischen Union bzw. im Bundesanzeiger von dem dort
+
+genannten Termin an erfolgen.
+
+Hinweise hierzu erhalten die Anwender der Norm auf den entsprechenden Webseiten der Europäischen
+Kommission oder auf den entsprechenden Webseiten der Bauaufsichtsbehörden.
+
+Neben dieser Norm darf die im Ersatzvermerk genannte Norm DIN EN 998-1:2010-12 noch für eine
+
+bestimmte Übergangsphase angewendet werden, sofern dies im Amtsblatt der Europäischen Union bzw. im
+Bundesanzeiger entsprechend verbindlich festgelegt wurde.
+
+Nationales Vorwort
+
+Dieses Dokument (EN 998-1:2016) wurde vom Technischen Komitee CEN/TC 125 „Mauerwerk“ erarbeitet,
+dessen Sekretariat vom BSI (Vereinigtes Königreich) gehalten wird.
+
+Das zuständige deutsche Gremium ist der NA 005-06-06 AA „Putzmörtel (SpA zu CEN/TC 125/WG 5 und
+CEN/TC 125/WG 2)“ im DIN-Normenausschuss Bauwesen (NABau).
+
+Änderungen
+
+Gegenüber DIN EN 998-1:2010-12 wurden folgende Änderungen vorgenommen:
+
+a) gegebenenfalls Aufnahme von Terminologie nach der neuen Bauproduktenverordnung;
+
+b) Änderung der Reihenfolge von 5.2-5.4 (Frischmörtel steht jetzt vor Festmörtel);
+
+c) überarbeiteter Abschnitt zu Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP);
+
+d) neuer Anhang mit unverbindlichen Prüfintervallen für die werkseigene Produktionskontrolle
+(informativ);
+
+e) überarbeiteter Anhang ZA (informativ);
+f) geringfügige redaktionelle Änderungen.
+
+Zu den bestehenden technischen Klassen und/oder Grenzwerten wurden keine Änderungen vorgenommen.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+Frühere Ausgaben
+
+Beiblatt 1 zu DIN 18550: 1967-06
+
+DIN 18550: 1955-10, 1967-08
+
+DIN 18550-1: 1985-01
+
+DIN 18550-2: 1985-01
+
+DIN 18550-3: 1991-03
+
+DIN 18550-4: 1993-08
+
+DIN 18557: 1982-05, 1997-11
+
+DIN EN 998-1: 2003-09, 2010-12
+
+DIN EN 998-1 Berichtigung 1: 2006-05
+
+DIN EN 998-1:2017-02
+
+2017-02
+
+DIN EN 998-1
+
+Leerseite
+
++
+
+#Z-L0-ZL0Z - LOO/Z00/L206LS10 HN-OGV - ZOLFFLLO UN-'PM - VEOM 709 8 IS 0S - PHEAWOH/I\ITL-UULION
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+EUROPÄISCHE NORM EN 998-1
+EUROPEAN STANDARD
+NORME EUROPEENNE November 2016
+
+ICS 91.100.10 Ersatz für EN 998-1:2010
+
+Deutsche Fassung
+
+Festlegungen für Mörtel im Mauerwerksbau —
+Teil 1: Putzmörtel
+
+Specification for mortar for masonry — Definitions et specifications des mortiers
+Part 1: Rendering and plastering mortar pour maconnerie —
+Partie 1: Mortiers d’enduits mineraux
+exterieurs et interieurs
+
+Diese Europäische Norm wurde vom CEN am 9. April 2016 angenommen.
+
+Die CEN-Mitglieder sind gehalten, die CEN/CENELEC-Geschäftsordnung zu erfüllen, in der die Bedingungen festgelegt sind, unter
+denen dieser Europäischen Norm ohne jede Änderung der Status einer nationalen Norm zu geben ist. Auf dem letzten Stand
+befindliche Listen dieser nationalen Normen mit ihren bibliographischen Angaben sind beim Management-Zentrum des CEN-
+CENELEC oder bei jedem CEN-Mitglied auf Anfrage erhältlich.
+
+Diese Europäische Norm besteht in drei offiziellen Fassungen (Deutsch, Englisch, Französisch). Eine Fassung in einer anderen
+Sprache, die von einem CEN-Mitglied in eigener Verantwortung durch Übersetzung in seine Landessprache gemacht und dem
+Management-Zentrum mitgeteilt worden ist, hat den gleichen Status wie die offiziellen Fassungen.
+
+CEN-Mitglieder sind die nationalen Normungsinstitute von Belgien, Bulgarien, Dänemark, Deutschland, der ehemaligen
+jugoslawischen Republik Mazedonien, Estland, Finnland, Frankreich, Griechenland, Irland, Island, Italien, Kroatien, Lettland,
+Litauen, Luxemburg, Malta, den Niederlanden, Norwegen, Österreich, Polen, Portugal, Rumänien, Schweden, der Schweiz, der
+Slowakei, Slowenien, Spanien, der Tschechischen Republik, der Türkei, Ungarn, dem Vereinigten Königreich und Zypern.
+
+ı— 1
+
+EUROPÄISCHES KOMITEE FÜR NORMUNG
+EUROPEAN COMMITTEE FOR STANDARDIZATION
+COMITE EUROPEEN DE NORMALISATION
+
+CEN-CENELEC Management-Zentrum: Avenue Marnix 17, B-1000 Brüssel
+
+©2016CEN Alle Rechte der Verwertung, gleich in welcher Form und in welchem Ref. Nr. EN 998-1:2016 D
+Verfahren, sind weltweit den nationalen Mitgliedern von CEN
+vorbehalten.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Inhalt
+
+Seite
+Europäisches VorWOTrt....unnrrrre err EEEEEEEEERREKEEEKREKKEEEEREEKEEENKEKERKEEEKEKKEEEEKREKKEEEEEKEHKEEENKNKERKEEEKKKKEEKEEKEHKEEENUENERKEEENENKEEEEEES 4
+Einleitung a........n.nnnnnnneE RE ERRKKEEEKKKREKKEEKKKKKEKEENKEKKEERKEEKKEEENKEHKEEKNKNEREEEEKEKKEEEEEENEKKEEEREKERKEEEUNEEKKEUEEKKEEKEEENKKEEENUEREKKEEEEENKEKEEUEN 5
+1 AnwendungsbereiCH.............rre rrr EK EUEKKKEEEERKKKEKEREKKKKEKENEEKKKKEEEKEKEKKEEEKKKEEKEKEKKEEENENKEKKEEEEKEEEERKKEEEENUNUEKEEE 6
+2 Normative VerweisungeN ...nnnr E EEREKREEERKKKEREEEERKKKEEERERKEKEEEEKKKERKEEENKKKKEKEEEKEKKEEKEEKERKEEENUNKEKKEEENENKEEKEKKHKEEE 6
+3 Begriffe und Abkürzungen
+3.1 Begriffe
+3.2 Abkürzungen .........ererrre er EEEEEKKEENKKEEKEREKKKKEREREEKKKKEEENKKERKKEEEKEKEKEREEKKEKEEKEUEUEHKEEEEEKKEHKEEKEKEEKEEKEKKEEEEKKEKKEEEERKEEKEEEUEE
+4 Ausgangsstoffe .........nn.nre rr EEEE EK EKEEREEEKKKKEEENEKKEKKEEKKKEKEEKKKEREREEKEKKEEEEEEKKEEEEKKEKKKEEKEKEEEEEEKEKKEEEEENKEREEEENKNEREREENENEK 10
+5 Produkteigenschaften ..
+5.1 Allgemeines
+5.2 Eigenschaften des Frischmörtels ...
+
+5.2.1 Verarbeitbarkeitszeit ..
+5.2.2 Luftgehalt....
+5.3 Eigenschaften des Festmörtels
+5.3.1 Allgemeines
+5.3.2 Dauerhaftigkeit....
+5.3.3 Brandverhalten
+5.3.4 Gefährliche Stoffe ..
+5.4 Mischen des Mörtels auf der Baustelle.
+
+6 Bezeichnung von PutzmörtelN ...nnnr E EEEEE RE EEEEKEE EK KREKKEEEEKKEKKEEKKKKKEEREEKEKKEEEEEEEEKKEEEKEKEKKEEENUKKEEEEEERUNEG 15
+7 Kennzeichnung und EtikettieruNß.....uunnnr rrr EEEEEEEEEEEEEEKKEEERKKKKEKEENKKKKEKEEKKKKEEEUEKKEKKEEKNKUKKEEEEEKKEKEUNKGEE 15
+8 Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP).
+
+8.1 Allgemeines...
+8.2 Bestimmung des Produkttyps.
+8.2.1 Allgemeines
+8.2.2 Probenahme.
+8.2.3 Referenzprüfung.
+8.2.4 Wiederholung der Bestimmung des Produkttyps
+8.2.5 AufzeichnuNg ..nr
+8.2.6 Anwendung von Prüfverfahren ..
+8.3 Werkseigene Produktionskontrolle (WPK)
+8.3.1 Allgemeines......
+8.3.2 Prozesslenkung...
+8.3.3 Konformität des Endproduktes..
+8.3.4 Statistische Verfahren
+8.3.5 Rückverfolgbarkeit — Kennzeichnung und Kontrolle der Lagerhaltung
+8.3.6 Nichtkonforme Produkte
+
+Anhang A (normativ) Probenahme für die Bestimmung des Produkttyps und für die
+
+unabhängige Prüfung von Lieferungen.. .19
+A.1 Allgemein®@S.................0
+A.2 Probenahmeverfahren
+
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Anhang B (informativ) Unverbindliche Prüfintervalle bei der werkseigenen
+Produktionskontrolle (WPK) ..
+
+Anhang ZA (informativ) Zusammenhang zwischen dieser Europäischen Norm und der
+Verordnung (EU) Nr. 305/2011
+ZA.1 Anwendungsbereich und maßgebende Merkmale..
+ZA.2 System der Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP; en:
+Assessment and Verification of Constancy of Performance)
+ZA.3 Zuordnung der Aufgaben zur Bewertung und Überprüfung der Leistungsbeständigkeit
+
+(AVCP)esssrreneen nnnnn enenEEeEE UE RERRREEKREKKKKRKKKERKEKRKKEKKEREKEEKEEREEREREEREREEREEREEKRKKKKEKERKEKEREEKEEEEKEEKEUEEREREUREUEEREUERURUEKRRNMKERKEREUKEN 25
+LiteraturhinWeiSe a....r.rrrn nnnrnnn EKEEEEEKKKEEEEKEKKKKERENKKKEKKEEEKEKKEKEKKEKEEEEKKKEKKEEEEEEREEUKKKEKEEEEKEKKEEEEKEKEEEKKEKEEEERREKEEEENEEKKUUEN 26
+3
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Europäisches Vorwort
+
+Dieses Dokument (EN 998-1:2016) wurde vom Technischen Komitee CEN/TC 125 „Mauerwerk“ erarbeitet,
+dessen Sekretariat vom BSI gehalten wird.
+
+Dieses Dokument ersetzt EN 998-1:2010.
+
+Diese Europäische Norm muss den Status einer nationalen Norm erhalten, entweder durch Veröffentlichung
+eines identischen Textes oder durch Anerkennung bis Mai 2017, und etwaige entgegenstehende nationale
+Normen müssen bis August 2018 zurückgezogen werden.
+
+Dieses Dokument wurde unter einem Mandat erarbeitet, das die Europäische Kommission und die
+Europäische Freihandelszone dem CEN erteilt haben, und unterstützt grundlegende Anforderungen der EU-
+
+Bauproduktenverordnung (Verordnung (EU) Nr. 305/2011).
+
+Zum Zusammenhang mit der EU-Verordnung siehe informativen AnhangZA, der Bestandteil dieses
+Dokuments ist.
+
+Die wichtigsten Änderungen im Vergleich zur vorherigen Ausgabe beziehen sich auf:
+
+a) gegebenenfalls Aufnahme von Terminologie nach der neuen Bauproduktenverordnung;
+
+b) Änderung der Reihenfolge von 5.2 bis 5.4 (Frischmörtel steht jetzt vor Festmörtel);
+
+c) überarbeitete Abschnitte zu Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP);
+
+d) neuer Anhang mit unverbindlichen Prüfintervallen für die werkseigene Produktionskontrolle
+(informativ);
+
+e) überarbeiteter Anhang ZA (informativ);
+
+f) geringfügige redaktionelle Änderungen.
+
+Zu den bestehenden technischen Klassen und/oder Grenzwerten wurden keine Änderungen vorgenommen.
+EN 998 Festlegungen für Mörtel im Mauerwerksbau besteht aus:
+
+Teil 1: Putzmörtel
+
+Teil 2: Mauermörtel
+
+Es wird auf die Möglichkeit hingewiesen, dass einige Elemente dieses Dokuments Patentrechte berühren
+können. CEN [und/oder CENELEC] sind nicht dafür verantwortlich, einige oder alle diesbezüglichen
+Patentrechte zu identifizieren.
+
+Entsprechend der CEN-CENELEC-Geschäftsordnung sind die nationalen Normungsinstitute der folgenden
+Länder gehalten, diese Europäische Norm zu übernehmen: Belgien, Bulgarien, Dänemark, Deutschland, die
+ehemalige jugoslawische Republik Mazedonien, Estland, Finnland, Frankreich, Griechenland, Irland, Island,
+Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Österreich, Polen, Portugal,
+
+Rumänien, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechische Republik, Türkei, Ungarn,
+Vereinigtes Königreich und Zypern.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Einleitung
+
+Die Eigenschaften von Putzmörtel hängen wesentlich von der Art des Bindemittels bzw. den Arten der
+Bindemittel und deren Mischungsverhältnissen ab. Spezielle Eigenschaften können durch die Art der
+verwendeten Gesteinskörnungen, Zusatzmittel und/oder sonstigen Zusatzstoffe erzielt werden.
+Putzmörteln werden unterschieden:
+a) nach dem Herstellungskonzept zwischen
+
+1) Mörtel nach Eignungsprüfung; oder
+
+2) Mörtel nach Rezept.
+b) nach Herstellungsart zwischen
+
+1) Werkmörtel;
+
+2) werkmäßig hergestelltem Mörtel; oder
+
+3) Baustellenmörtel.
+c) nach den Eigenschaften und/oder dem Verwendungszweck zwischen
+
+1) Normalputzmörtel;
+
+2) Leichtputzmörtel;
+
+3) Edelputzmörtel;
+
+4) Einlagenputzmörtel;
+
+5) Sanierputzmörtel;
+
+6) Wärmedämmputzmörtel.
+Putzmörtel erreichen ihre endgültigen Eigenschaften erst nach ausreichender Verfestigung am Baukörper.
+Sie erfüllen Funktionen, die von den Eigenschaften der verwendeten Ausgangsstoffe, der Dicke ihrer
+Schichten und dem Verwendungszweck abhängen. Zugleich dienen sie der Oberflächengestaltung eines
+Bauwerks.
+Aufgrund regionaler Unterschiede hinsichtlich der Bautraditionen und des Klimas, sowie unterschiedlicher
+Bestandteile ist es nicht möglich, genormte Mischungsverhältnisse für Mörtel nach Rezept für alle Länder
+Europas festzulegen. Daher sollten den Festlegungen für solche Mischungsverhältnisse (Rezepturen) und
+
+Anwendungsbereiche die Praxis und die Erfahrungen, die am Anwendungsort vorliegen, zugrunde gelegt
+werden.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+1 Anwendungsbereich
+
+Diese Europäische Norm gilt für im Werk hergestellte Putzmörtel aus anorganischen Bindemitteln, die als
+Außenputz und als Innenputz für Wände, Decken, Pfeiler und Trennwände verwendet werden. Sie enthält
+Definitionen und Leistungsanforderungen.
+
+Diese Europäische Norm ermöglicht ein Verfahren zur Bewertung und Überprüfung der
+Leistungsbeständigkeit (AVPC) der Produkte nach dieser Europäischen Norm. Anforderungen an die
+Kennzeichnung der von dieser Europäischen Norm abgedeckten Produkte sind enthalten.
+
+Diese Europäische Norm gilt nicht für Mörtel, deren Hauptbindemittel Gips ist.
+
+Gips kann als zusätzliches Bindemittel mit Luftkalk verwendet werden. Wenn Luftkalk das Hauptbindemittel
+ist, wird der Putzmörtel durch diese Europäische Norm erfasst. Wenn Gips das Hauptbindemittel ist, wird
+der Mörtel durch EN 13279 abgedeckt.
+
+Spezielle Brandschutzmörtel und — Akustikputzmörtel, Mörtel zur Instandhaltung und zur
+Oberflächenbehandlung von Bauteilen wie Ausgleichsmassen, Anstriche, Beschichtungen, organische Putze,
+die in dünnen Schichten aufgetragen werden, und vorgefertigte Elemente (z. B. Gipsplatten) sind nicht
+Gegenstand dieser Europäischen Norm.
+
+Diese Europäische Norm gilt für Putzmörtel nach Abschnitt 3 mit Ausnahme von Baustellenputzmörtel.
+Diese Europäische Norm oder Teile davon dürfen jedoch im Zusammenhang mit Anwendungsvorschriften
+und nationalen Normen auch für Baustellenputzmörtel angewendet werden.
+
+2 Normative Verweisungen
+
+Die folgenden Dokumente, die in diesem Dokument teilweise oder als Ganzes zitiert werden, sind für die
+Anwendung dieses Dokuments erforderlich. Bei datierten Verweisungen gilt nur die in Bezug genommene
+Ausgabe. Bei undatierten Verweisungen gilt die letzte Ausgabe des in Bezug genommenen Dokuments
+(einschließlich aller Änderungen).
+
+EN 1015-2, Prüfverfahren für Mörtel für Mauerwerk — Teil 2: Probenahme von Mörteln und Herstellung von
+Prüfmörteln
+
+EN 1015-7, Prüfverfahren für Mörtel für Mauerwerk — Teil 7: Bestimmung des Luftgehaltes von Frischmörtel
+
+EN 1015-9, Prüfverfahren für Mörtel für Mauerwerk — Teil 9: Bestimmung der Verarbeitbarkeitszeit und der
+Korrigierbarkeitszeit von Frischmörtel
+
+EN 1015-10, Prüfverfahren für Mörtel für Mauerwerk — Teil10: Bestimmung der Trockenrohdichte von
+Festmörtel
+
+EN 1015-11, Prüfverfahren für Mörtel für Mauerwerk — Teil 11: Bestimmung der Biegezug und Druckfestigkeit
+von Festmörtel
+
+EN 1015-12, Prüfverfahren für Mörtel für Mauerwerk — Teil 12: Bestimmung der Haftfestigkeit von erhärteten
+Putzmörteln
+
+EN 1015-18, Prüfverfahren für Mörtel für Mauerwerk — Teil 18: Bestimmung der kapillaren Wasseraufnahme
+von erhärtetem Mörtel (Festmörtel)
+
+EN 1015-19, Prüfverfahren für Mörtel für Mauerwerk — Teil 19: Bestimmung der Wasserdampfdurchlässigkeit
+von Festmörteln aus Putzmörteln
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+EN 1015-21, Prüfverfahren für Mörtel für Mauerwerk — Teil21: Bestimmung der Verträglichkeit von
+Einlagenputzmörteln mit Untergründen
+
+EN 1745:2012, Mauerwerk und Mauerwerksprodukte — Verfahren zur Ermittlung von
+Wärmeschutzrechenwerten
+
+EN 13501-1, Klassifizierung von Bauprodukten und _Bauteilen zu ihrem Brandverhalten —
+Teil 1: Klassifizierung mit den Ergebnissen aus den Prüfungen zum Brandverhalten
+
+3 Begriffe und Abkürzungen
+
+3.1 Begriffe
+Für die Anwendung dieses Dokuments gelten die folgenden Begriffe und Abkürzungen.
+
+3.1.1
+
+Putzmörtel
+
+Gemisch aus einem oder mehreren anorganischen Bindemitteln, Gesteinskörnungen, Wasser und
+gegebenenfalls Zusatzstoffen und/oder Zusatzmitteln, das als Außen- oder Innenputz verwendet wird
+
+3.1.2
+Frischputzmörtel
+vollständig gemischter, gebrauchsfertiger Mörtel
+
+3.1.3
+Mörtelarten, definiert nach Herstellungskonzept
+
+3.1.3.1
+
+Putzmörtel nach Eignungsprüfung
+
+Mörtel, dessen Zusammensetzung und Herstellungsverfahren vom Hersteller so ausgewählt werden, dass
+bestimmte Eigenschaften erreicht werden (Eignungsprüfungskonzept)
+
+3.1.3.2
+
+Putzmörtel nach Rezept
+
+in vorbestimmten Mischungsverhältnissen hergestellter Mörtel, dessen Eigenschaften aus den vorgegebenen
+Anteilen der Bestandteile abgeleitet werden (Rezeptkonzept)
+
+3.1.4
+Mörtelarten, definiert nach Art der Herstellung
+
+3.1.4.1
+Werkputzmörtel
+Mörtel, der in einem Werk zusammengesetzt und gemischt wird
+
+Anmerkung 1 zum Begriff: Es kann sich hierbei um „Trockenmörtel“ handeln, der fertig gemischt ist und lediglich die
+Zugabe von Wasser erfordert, oder um „Nassmörtel“, der gebrauchsfertig geliefert wird.
+
+3.1.4.2
+Werkmäßig hergestellter Putzmörtel
+
+3.1.4.2.1
+
+werkmäßig vorbereiteter Putzmörtel
+
+Mörtel aus Bestandteilen, die im Werk abgefüllt, zur Baustelle geliefert und dort nach Herstellerangaben
+und -bedingungen gemischt werden
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+3.1.4.2.2
+
+Kalk-Sand-Werk-Vormörtel
+
+Mörtel aus Bestandteilen, die im Werk zusammengesetzt und gemischt werden, der zur Baustelle geliefert
+wird und dem dort weitere Bestandteile nach Anweisung des Werkes oder von diesem geliefert (z. B.
+Zement) beigefügt werden
+
+3.1.4.3
+Baustellenputzmörtel
+Mörtel, der aus den einzelnen Bestandteilen auf der Baustelle zusammengesetzt und gemischt wird
+
+3.1.5
+Putzmörtel nach der Art der Eigenschaften und/oder dem Verwendungszweck
+
+3.1.5.1
+Normalputzmörtel
+Putzmörtel ohne besondere Eigenschaften
+
+Anmerkung 1 zum Begriff#: Er kann als Mörtel nach Rezept und/oder als Mörtel nach Eignungsprüfung hergestellt
+werden.
+
+3.1.5.2
+
+Leichtputzmörtel
+
+Putzmörtel nach Eignungsprüfung mit einer Trockenrohdichte des Festmörtels unterhalb eines bestimmten
+Wertes (siehe Tabelle 2, L1)
+
+3.1.5.3
+Edelputzmörtel
+speziell eingefärbter Putzmörtel nach Eignungsprüfung
+
+Anmerkung 1 zum Begriff: Die Farbe wird z. B. mit Pigmenten oder farbigen Gesteinskörnungen erreicht.
+
+3.1.5.4
+
+Einlagenputzmörtel für außen
+
+Putzmörtel nach Eignungsprüfung, der in einer Lage verarbeitet wird und dieselben Funktionen erfüllt, die
+von einem mehrlagigen Außen-Putzsystem gefordert werden und der üblicherweise farbig ist
+
+Anmerkung 1 zum Begriff: Einlagenputzmörtel für außen können mit normalen und/oder _ leichten
+Gesteinskörnungen hergestellt werden.
+
+3.1.5.5
+
+Sanierputzmörtel
+
+Putzmörtel nach Eignungsprüfung, der für das Verputzen von feuchten Mauerwerken, die wasserlösliche
+Salze enthalten, geeignet ist
+
+Anmerkung 1 zum Begriff: Diese Mörtel weisen eine hohe Porosität und Wasserdampfdiffusion sowie eine
+verminderte kapillare Leitfähigkeit auf.
+
+3.1.5.6
+Wärmedämmputzmörtel
+Putzmörtel nach Eignungsprüfung mit spezifischen wärmedämmenden Eigenschaften
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+3.1.6
+Weitere Begriffe
+
+3.1.6.1
+
+deklarierter Wert
+
+Wert, von dessen zuverlässiger Einhaltung der Hersteller unter Berücksichtigung der Genauigkeit des
+Prüfverfahrens, der im Rahmen des Herstellungsprozesses liegenden Schwankungen und der
+Leistungsfähigkeit des Produktes ausgeht
+
+3.1.6.2
+Außen- bzw. Innenputz
+Materialien und Putzsysteme für den Außen- bzw. den Innengebrauch
+
+3.1.6.3
+
+Putzsystem
+
+eine Reihe von Lagen von Putzen, die auf den Putzgrund in Verbindung mit einer eventuellen Verwendung
+eines Putzträgers und/oder einer Putzarmierung und/oder einer Untergrundvorbehandlung aufgebracht
+werden können
+
+Anmerkung 1 zum Begriff#: In manchen Fällen kann die Untergrundvorbehandlung aus einer zusätzlichen Putzlage
+zum spezifizierten Putzsystem bestehen.
+
+3.1.6.4
+
+Putzlage
+
+Lage, die in einem oder in mehreren Arbeitsgängen mit demselben Putzmörtel vor dem Verfestigen der
+vorherigen Putzlage (z. B. frisch auf frisch) ausgeführt wird
+
+3.1.6.5
+Unterputz
+untere Lage oder Lagen eines Putzsystems
+
+3.1.6.6
+Oberputz
+oberste Lage eines mehrlagigen Putzsystems, die eine dekorative Funktion erfüllen kann
+
+3.1.6.7
+
+Produkttyp
+
+Satz der repräsentativen Leistungsstufen oder Leistungsklassen der Wesentlichen Merkmale eines
+Bauprodukts, das unter Verwendung einer bestimmten Kombination von Rohstoffen oder anderer
+Bestandteile in einem bestimmten Produktionsprozess hergestellt wird
+
+Anmerkung 1 zum Begriff: Die Definition ist der Verordnung (EU) Nr. 305/2011 entnommen.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+3.2 Abkürzungen
+
+Für die Anwendung dieses Dokuments gelten folgende Abkürzungen.
+
+GP Normalputzmörtel
+
+LW Leichtputzmörtel
+
+CR Edelputzmörtel
+
+OC Einlagenputzmörtel für außen
+Sanierputzmörtel
+Wärmedämmputzmörtel
+
+FP Bruchbild
+
+4 Ausgangsstoffe
+Die Ausgangsstoffe müssen Eigenschaften aufweisen, die zur Herstellung eines fertigen Produktes, das den
+
+Anforderungen dieser Europäischen Norm genügt, geeignet sind. Der Hersteller muss aufzeichnen, wie die
+Eignung der Ausgangsstoffe festgestellt wird.
+
+5 Produkteigenschaften
+
+5.1 Allgemeines
+
+Den in dieser Europäischen Norm beschriebenen Anforderungen an Frisch- und Festmörtel sowie an deren
+Eigenschaften müssen die Prüfverfahren und andere in dieser Europäischen Norm enthaltene Verfahren
+zugrunde liegen. Für diese Prüfungen sind Mörtelproben nach EN 1015-2 zu entnehmen.
+
+Die Konformitätskriterien, die in 5.2 für Frischmörtel und in Tabelle 2 für Festmörtel angegeben sind,
+beziehen sich auf die Bestimmung des Produkttyps (siehe 8.2) und auf die Prüfung von Lieferungen (siehe
+Anhang A). Die Konformitätskriterien zur Bewertung der laufenden Produktion sind in der Dokumentation
+
+der werkseigenen Produktionskontrolle festzulegen (siehe 8.3).
+
+ANMERKUNG Die Mörteleigenschaften werden unter Laborbedingungen festgelegt und sind nicht immer
+unmittelbar mit den Mörteleigenschaften auf der Baustelle vergleichbar.
+
+5.2 Eigenschaften des Frischmörtels
+
+5.2.1 Verarbeitbarkeitszeit
+
+Die Verarbeitbarkeitszeit ist vom Hersteller anzugeben. Sofern die Probenahme von Putzmörtel in
+Übereinstimmung mit EN 1015-2 und die Prüfung nach EN 1015-9 erfolgen, darf die Verarbeitbarkeitszeit
+
+den deklarierten Wert nicht unterschreiten.
+
+Die Verarbeitbarkeitszeit ist nur bei Putzmörteln zu prüfen, die Zusatzmittel zur Lenkung des
+Abbindevorgangs enthalten, z. B. bei im Werk hergestelltem Nassmörtel.
+
+5.2.2 Luftgehalt
+
+Sofern für die vorgesehenen Verwendungszwecke, für die der Putzmörtel in den Handel gebracht wird,
+erforderlich, ist der Bereich, in den der Luftgehalt des jeweiligen Mörtels fällt, vom Hersteller anzugeben.
+
+10
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Sofern die Probenahme in Übereinstimmung mit EN 1015-2 und die Prüfung nach EN 1015-7 erfolgen, muss
+der Luftgehalt im angegebenen Bereich liegen.
+
+Bei Putzmörteln mit porösen Gesteinskörnungen darf der Luftgehalt auch durch Prüfung der Rohdichte des
+Frischmörtels nach EN 1015-6 geprüft werden.
+
+5.3 Eigenschaften des Festmörtels
+
+5.3.1 Allgemeines
+
+Die unterschiedlichen Verwendungsmöglichkeiten und Beanspruchungen erfordern, dass Putzmörtel
+unterschiedliche Eigenschaften aufweist und unterschiedlichen Leistungsanforderungen genügt. Zu diesem
+Zweck sind die Druckfestigkeit, die Wasseraufnahme und die Wärmeleitfähigkeit nach Tabelle1 zu
+klassifizieren. Die Eigenschaften, die für den jeweiligen Verwendungszweck und/oder für die jeweilige
+Produktart von Bedeutung sind, sind nach Tabelle 2 zu deklarieren. Die deklarierten Werte und/oder
+Klassen müssen den in Tabelle 2 festgelegten Anforderungen entsprechen.
+
+Sofern für den Verwendungszweck, für den der Putzmörtel in den Handel gebracht wird, erforderlich, dürfen
+weitere Eigenschaften, zusätzlich zu den in Tabelle2 aufgeführten, für jede Mörtelart, für die keine
+
+Anforderungen festgelegt sind (durch einen Strich gekennzeichnet), deklariert werden.
+
+Die Dauerhaftigkeit und das Brandverhalten von Mörtel sind entsprechend folgenden Festlegungen
+anzugeben:
+
+5.3.2 Dauerhaftigkeit
+
+5.3.2.1 Einlagenputzmörtel
+
+Der Frost-/Tau-Widerstand von Einlagenputzmörtel ist durch Prüfung der Haftzugfestigkeit und der
+Wasserdurchlässigkeit nach der Bewitterung zu beurteilen (siehe Tabelle 2, L4 und L7).
+
+5.3.2.2 Alle Putzmörtel ausgenommen Einlagenputzmörtel
+
+Solange kein europäisches Prüfverfahren zur Verfügung steht, ist der Frost-/Tau-Widerstand nach den am
+vorgesehenen Verwendungsort des Mörtels geltenden Bestimmungen zu beurteilen und anzugeben.
+
+5.3.3 Brandverhalten
+
+Putzmörtel, deren Gehalt an homogen verteilten organischen Stoffen <1% Massen- oder Volumenanteil
+beträgt (der größere Wert ist maßgebend), werden der Brandverhaltensklasse A1 zugeordnet, ohne dass
+eine Prüfung erforderlich ist.
+
+Putzmörtel, dessen Gehalt an homogen verteilten organischen Stoffen mehr als 1 % der Masse oder des
+Volumens beträgt (der größere Wert ist maßgebend), ist nach EN13501-1 zu klassifizieren. Die
+entsprechende Brandverhaltensklasse ist anzugeben.
+
+ANMERKUNG Es wird auf die Entscheidung der Europäischen Kommission 96/603/EG in der geänderten Fassung
+hingewiesen, nach der nicht brennbare Mörtel, die nicht mehr als 1% Massen- oder Volumenanteil an homogen
+verteilten organischen Stoffen enthalten (der größere Wert ist maßgebend), ohne Prüfung der
+Brandverhaltensklasse A1 zugeordnet werden.
+
+11
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+5.3.4 Gefährliche Stoffe
+
+Nationale Vorschriften zu gefährlichen Stoffen können bei der Einführung der von dieser Norm abgedeckten
+Bauprodukte auf dem Markt des betreffenden Landes die Vorlage eines Nachweises und einer Deklaration
+über die Freisetzung von solchen Stoffen und teilweise über deren Gehalt fordern.
+
+Bis harmonisierte europäische Prüfverfahren zur Verfügung stehen, sollten der Nachweis und die
+Deklaration über die Freisetzung von gefährlichen Stoffen bzw. über deren Gehalt unter Berücksichtigung
+der nationalen Vorschriften, die am Ort der Verwendung gelten, erfolgen.
+
+ANMERKUNG Eine Informationsdatenbank über europäische und nationale Bestimmungen zu gefährlichen Stoffen
+ist auf der „Growth“-Internetseite der Kommission EUROPA [in englischer Sprache] verfügbar, Zugang über:
+
+http://ec.europa.eu/growth/tools-databases/cp-ds/index_en.htm
+
+Tabelle 1 — Klassifizierung der Eigenschaften von Festmörtel
+
+Eigenschaften Kategorien Werte
+
+0,4 N/mm?2 bis 2,5 N/mm?
+1,5 N/mm? bis 5,0 N/mm2
+Druckfestigkeit nach 28 Tagen
+3,5 N/mm? bis 7,5 N/mm2
+
+> 6 N/mm?
+
+Nicht festgelegt
+
+Kapillare Wasseraufnahme C < 0,40 kg/(m?-min®5)
+
+C < 0,20 kg/(m?2.min®5)
+
+<0,1 W/(mK)
+<0,2W/(m : K)
+
+Wärmeleitfähigkeit
+
+12
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+Tabelle 2 — Zusammenfassung der Anforderungen an Festmörtel
+
+Prüfparameter
+
+Trockenrohdichte (kg/m3)
+
+Prüfverfahren
+
+EN 1015-10
+
+Normal-
+putzmörtel
+
+Deklarier-
+ter Werte-
+bereich
+
+Leichtputz-
+mörtel
+
+Deklarierter
+Wertebereich
+< 1 300 kg/m3
+
+Edelputz-
+mörtel
+
+Deklarierter
+Werte-
+bereich
+
+Einlagen-
+putzmörtel
+für außen
+
+Deklarierter
+Werte-
+bereich
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Sanierputz-
+mörtel
+
+Deklarierter
+Werte-
+bereich
+
+Wärme-
+dämm-
+putzmörtel
+
+Deklarierter
+Werte-
+bereich
+
+Druckfestigkeit (Kategorien)
+
+EN 1015-11?
+
+CS I bis
+CS IV
+
+CS I bis CS II
+
+CS I bis
+CS IV
+
+CS I bis
+CS IV
+
+CS 11
+
+CS I bis CS II
+
+Haftzugfestigkeit
+(N/mm? und Bruchbild (FP) A, B oder C)
+
+EN 1015-12
+
+> Dekla-
+rierter Wert
+und Bruch-
+bild (FP)
+
+> Dekla-
+rierter Wert
+und Bruch-
+bild (FP)
+
+> Deklarier-
+ter Wert
+und Bruch-
+bild (FP)
+
+> Deklarier-
+ter Wert
+und Bruch-
+bild (FP)
+
+> Deklarier-
+ter Wert
+und Bruch-
+bild (FP)
+
+L8
+
+Haftzugfestigkeit nach der Bewitterung
+(N/mm? und Bruchbild (FP) A, B oder C)
+
+Kapillare Wasseraufnahme (Kategorien)
+(für Mörtel zur Verwendung in
+Außenbauteilen)
+
+Wassereindringung nach der Prüfung der
+Wasseraufnahme (in mm)
+
+Wasserdurchlässigkeit auf bestimmten
+Untergründen nach der Bewitterung (ml/cm2
+nach 48 h)
+
+Koeffizient der Wasserdampfdurchlässigkeit
+(4)
+
+(für Mörtel zur Verwendung in
+Außenbauteilen)
+
+EN 1015-19%b
+
+< Deklarier
+ter Wert
+
+W, 0 bis W, 2
+
+< Deklarier-
+ter Wert
+
+< Deklarier-
+ter Wert
+
+Deklarierter
+Wert und
+Bruchbild
+(FP)
+
+< 1ml/cm2
+nach 48 h
+
+< Deklarier-
+ter Wert
+
+> 0,3 kg/m?
+nach 24 h
+
+<15
+
+13
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+14
+
+Prüfparameter Prüfverfahren | Normal- Leichtputz- | Edelputz- | Einlagen- |Sanierputz-| Wärme-
+putzmörtel mörtel mörtel putzmörtel mörtel dämm-
+für außen putzmörtel
+
+Wärmeleitfähigkeit (Mittelwerte für A0 g,ymat) |EN 1745:2012, |Tabellierter |Tabellierter |Tabellierter |Tabellierter |Tabellierter
+(W/m-K)“ Tabelle A.12 Mittelwert |Mittelwert Mittelwert |Mittelwert |Mittelwert
+(P=50%) |(P=50%) (P=50%) |(P=50%) |(P=50%)
+[ftßr Mörtel zur Verwendung in Bauteilen, an die | 5N 1745:2012, T1:<0,10
+wärmeschutztechnische Anforderungen gestellt | 4 „ » T2:<0,20
+werden)
+
+Brandverhalten (Klasse) EN 13501-1 Nach 5.3.3 anzugeben
+
+Dauerhaftigkeit - Nach 5.3.2 anzugeben
+
+Gefährliche Stoffe Nationale Be- |Nationale Bestimmungen
+stimmungen am
+Ort der
+Verwendung
+des Mörtels
+
+2 _ Zur Bestimmung der Lagerbedingungen ist der Luftkalkgehalt als Calciumhydroxid Ca(OH), zu berechnen.
+
+b _ Im Gegensatz zum Prüfverfahren nach EN 1015-19, mit dem der Feuchtedurchlasskoeffizient va (in kg/m - s - Pa) bestimmt wird, wird in dieser Europäischen Norm der
+Wasserdampf-Diffusionsleitkoeffizient / ermittelt.
+
+Die Berechnung von y aus Wn erfolgt nach der folgenden Gleichung: u = 1,94E — 10/Wvp
+
+Dabei entspricht 1,94E — 10 dem Wasserdampfdiffusionsfaktor in Luft bei 20 °C und 101 325 Pa Atmosphärendruck.
+
+c
+
+Ein anderes Quantil darf verwendet werden. Wenn dies der Fall ist, ist das verwendete Quantil zusammen mit dem zusätzlichen Wert für 4,9 dry,mat anzugeben.
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+5.4 Mischen des Mörtels auf der Baustelle
+Sofern für bestimmte Mörteltypen bestimmte Mischgeräte, -verfahren oder -zeiten erforderlich sind, sind
+
+diese vom Hersteller anzugeben. Die Mischzeit wird von dem Zeitpunkt an gemessen, in dem alle
+Bestandteile zugegeben worden sind.
+
+6 Bezeichnung von Putzmörteln
+
+Die Bezeichnung muss, sofern erforderlich, die folgenden Angaben enthalten:
+a) Nummer dieser Europäischen Norm;
+
+b) Produktname und/oder Mörtelart nach 3.1.5.1 bis 3.1.5.6;
+
+c) Name des Herstellers;
+
+d) Herstellungsdatum oder ein entsprechender Code.
+
+Die Eigenschaften des Mörtels sind, sofern erforderlich, durch Angabe von bestimmten Werten oder
+Kategorien nach Tabelle 2 für Festmörtel und nach 5.2 für Frischmörtel zu bezeichnen.
+
+7 Kennzeichnung und Etikettierung
+
+Die Bezeichnung (siehe Abschnitt 6) oder die Abkürzung für die Bezeichnung ist auf der Verpackung, auf
+dem Lieferschein oder einem dem Produkt beigegebenen Datenblatt des Herstellers oder in sonstigen
+Begleitinformationen anzugeben.
+
+8 Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP)
+
+8.1 Allgemeines
+
+Die Konformitätsbewertung dient durch Bestimmung des Produkttyps (siehe 8.2) dem Nachweis, dass das
+Produkt die Anforderungen dieser Europäischen Norm erfüllt und die deklarierten Angaben zu den
+Produkteigenschaften mit dem tatsächlichen Verhalten des Produktes übereinstimmen und durch eine
+werkseigene Produktionskontrolle, WPK (siehe 8.3), dass die auf der Bestimmung des Produkttyps
+beruhenden Deklarationen zu den Eigenschaften auch für weitere Produkte gelten.
+
+Der Hersteller (oder sein Vertreter) muss anhand von Bestimmung des Produkttyps und der werkseigenen
+
+Produktionskontrolle nachwei__sen‚ dass das Produkt die Anforderungen dieser Europäischen Norm erfüllt,
+und ist verantwortlich für die Übereinstimmung des Produktes mit allen Festlegungen.
+
+8.2 Bestimmung des Produkttyps
+
+8.2.1 Allgemeines
+
+Nach Abschluss der Entwicklung eines neuen Produkttyps und vor Beginn der Herstellung und Vermarktung
+sind angemessene Bestimmungen des Produkttyps durchzuführen, um sicherzustellen, dass die während der
+
+Entwicklung angestrebten Eigenschaften die Anforderungen dieser Europäischen Norm erfüllen und den zu
+deklarierenden Werten entsprechen.
+
+15
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Sofern Prüfergebnisse bereits zur Verfügung stehen, darf der Hersteller sie für die Bestimmung des
+Produkttyps berücksichtigen.
+
+Zum Nachweis der Produkteigenschaften, die nur im Rahmen der Bestimmung des Produkttyps zu prüfen
+sind, darf der Hersteller die Ergebnisse einer Bestimmung des Produkttyps von Dritten (d. h. von einem
+anderen Hersteller) oder von der Industrie verwenden, um seine eigene Leistungserklärung für ein Produkt,
+das nach der gleichen Rezeptur sowie mit den gleichen Ausgangsstoffen, Bestandteilen und
+Herstellungsverfahren hergestellt wurde, zu begründen, vorausgesetzt, dass hierfür die erforderliche
+Genehmigung vorliegt und die Prüfung für beide Produkte gilt.
+
+Sofern ein Hersteller das gleiche Produkt in zwei verschiedenen Produktionslinien oder -einheiten oder in
+mehr als einem Werk herstellt, darf unter Umständen die Wiederholung der Bestimmung des Produkttyps
+für die verschiedenen Produktionslinien bzw. -einheiten entfallen. (Der Hersteller trägt die Verantwortung
+dafür, dass die Produkte tatsächlich gleich sind.)
+
+8.2.2 Probenahme
+Die Probenahme muss nach Anhang A erfolgen.
+
+8.2.3 Referenzprüfung
+Als Prüfverfahren für die Eigenschaften von ordnungsgemäß getrocknetem Mörtel und ausgehärtetem
+Mörtel nach Abschnitt 5 sind die in dieser Europäischen Norm angegebenen Referenzprüfverfahren
+
+anzuwenden, wobei sich die zu prüfenden Eigenschaften nach dem Verwendungszweck des Produkttyps
+richten müssen.
+
+8.2.4 Wiederholung der Bestimmung des Produkttyps
+
+Die Bestimmung des Produkttyps ist auch für bestehende Produkte durchzuführen, wenn eine Veränderung
+der Ausgangsstoffe oder der Herstellungsverfahren stattfindet, von der der Hersteller annimmt, dass sich die
+angegebene Leistungsfähigkeit des Produkts oder dessen Verwendungszweck ändert. In solchen Fällen sind
+die entsprechenden Bestimmungen des Produkttyps für die betroffenen Eigenschaften oder deren
+
+Bestätigung oder für neue Eigenschaften, die sich durch den/die veränderten Verwendungszweck(e)
+ergeben, durchzuführen.
+
+8.2.5 Aufzeichnung
+Die Ergebnisse der Bestimmung des Produkttyps sind aufzuzeichnen.
+8.2.6 Anwendung von Prüfverfahren
+
+Basiert die Erklärung auf in den entsprechenden Abschnitten festgelegten und tabellierten Werten, ist eine
+Prüfung nicht erforderlich.
+
+ANMERKUNG Für die Eigenschaften, die nicht zur Erfüllung der Bestimmungen bezüglich der CE-Kennzeichnung
+erforderlich sind, könnte die Anwendung der Option NPD in Frage kommen.
+
+8.3 Werkseigene Produktionskontrolle (WPK)
+8.3.1 Allgemeines
+Der Hersteller muss ein System der werkseigenen Produktionskontrolle einrichten, dokumentieren und
+
+aufrechterhalten, um sicherzustellen, dass das in Verkehr gebrachte Produkt mit dieser Norm und den
+angegebenen Produktwerten übereinstimmt.
+
+16
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Das System der werkseigenen Produktionskontrolle muss Verfahren zur Prozesslenkung (eingehende
+Ausgangsstoffe und Herstellungsverfahren), für die fertigen Produkte (Prüfungen an den fertigen Produkten
+und an der Prüfeinrichtung) und zur Rückverfolgung von nichtkonformen Produkten umfassen.
+
+Jedes System der werkseigenen Produktionskontrolle, das mit den Anforderungen von EN ISO 9001
+
+übereinstimmt und den Anforderungen der vorliegenden Europäischen Norm entspricht, wird als die oben
+genannten Anforderungen erfüllend betrachtet.
+
+8.3.2 Prozesslenkung
+
+8.3.2.1 Ausgangsstoffe
+
+Der Hersteller muss die Annahmekriterien für die Ausgangsstoffe sowie Verfahren zur Sicherstellung der
+Einhaltung dieser Kriterien festlegen.
+
+8.3.2.2 Herstellungsverfahren
+Die maßgebenden Merkmale des Herstellungsverfahrens sind unter Angabe der Häufigkeit der
+Überprüfungen durch den Hersteller zusammen mit den erforderlichen Kriterien und Produkteigenschaften
+zu definieren. Die Maßnahmen, die bei Nichteinhaltung der Kriterien bzw. der Produkteigenschaften zu
+ergreifen sind, sind durch den AHersteller im Rahmen der Dokumentation der werkseigenen
+Produktionskontrolle festzulegen.
+
+Alle Produktionseinrichtungen, die die deklarierten Werte beeinflussen, sind in Übereinstimmung mit den
+dokumentierten Verfahren, Häufigkeiten und Kriterien zu kontrollieren und regelmäßig zu überprüfen.
+
+8.3.3 Konformität des Endproduktes
+8.3.3.1 Prüfung des Endproduktes
+
+Das System der werkseigenen Produktionskontrolle muss einen Probenahmeplan mit Angaben über die
+Prüfhäufigkeiten für die Produkte enthalten. Die Ergebnisse der Prüfung sind aufzuzeichnen.
+
+ANMERKUNG Beispiele für Prüfhäufigkeiten gibt Anhang B.
+
+Für die Bewertung der Produkte muss der Hersteller die Konformitätskriterien in der Dokumentation der
+werkseigenen Produktionskontrolle festlegen.
+
+Andere Prüfverfahren als die in dieser Europäischen Norm festgelegten Referenzverfahren dürfen
+angewendet werden, ausgenommen für die Bestimmung des Produkttyps und im Streitfall, vorausgesetzt,
+dass sie die nachstehenden Anforderungen erfüllen:
+
+a) Zwischen den Ergebnissen der Referenzprüfung und den Ergebnissen der alternativen Prüfung kann
+eine Korrelation nachgewiesen werden, und
+
+b) die Angaben, auf denen die Korrelation beruht, sind verfügbar.
+Die Probenahme muss für die Produktion repräsentativ sein.
+
+Die Prüfergebnisse müssen die festgelegten Konformitätskriterien erfüllen und aufgezeichnet werden.
+
+17
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+8.3.3.2 Prüfgeräte
+
+Alle Wäge-, Mess- und Prüfgeräte, die einen Einfluss auf die deklarierten Werte haben, sind in
+Übereinstimmung mit den im Handbuch der werkseigenen Produktionskontrolle angegebenen
+dokumentierten Verfahren und Häufigkeiten zu kalibrieren und regelmäßigen Kontrollen zu unterziehen.
+
+8.3.4 Statistische Verfahren
+
+Sofern möglich und erforderlich, sind die Ergebnisse von Kontrollen und Prüfungen mit statistischen
+Verfahren — Attribut- oder Variablenprüfung — auszuwerten, um die Produkteigenschaften nachzuweisen
+und um festzustellen, ob die Produktion den Konformitätskriterien entspricht und das Produkt mit den
+
+deklarierten Werten übereinstimmt.
+
+ANMERKUNG _ Anleitung hierzu gibt CEN/TR 16886.
+8.3.5 Rückverfolgbarkeit — Kennzeichnung und Kontrolle der Lagerhaltung
+
+Die Kennzeichnung und die Kontrolle der Lagerhaltung sind zu dokumentierten. Die Produkte müssen
+identifiziert werden können und hinsichtlich ihrer Herkunft (Herstellungsort) rückverfolgbar sein.
+
+8.3.6 Nichtkonforme Produkte
+Das Verfahren zum Umgang mit nichtkonformen Produkten ist zu dokumentieren. Produkte, die die
+Anforderungen nicht erfüllen, sind auszusondern und entsprechend zu kennzeichnen. Sie dürfen jedoch
+
+durch den Hersteller in eine andere Klasse eingestuft werden und andere deklarierte Werte erhalten. Der
+Hersteller muss Maßnahmen ergreifen, um ein erneutes Auftreten der Nichtkonformität zu verhindern.
+
+18
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Anhang A
+(normativ)
+
+Probenahme für die Bestimmung des Produkttyps und für die
+unabhängige Prüfung von Lieferungen
+
+A.1 Allgemeines
+
+Dieses Probenahmeverfahren muss für die Bestimmung des Produkttyps und für den Fall, dass aufgrund
+einer Anforderung eine Überprüfung des Produktes auf Übereinstimmung erfolgt, angewendet werden. Im
+Fall einer unabhängigen Prüfung sind nur die vom Hersteller deklarierten Eigenschaften zu bewerten und es
+muss Vertretern aller beteiligten Parteien die Gelegenheit eingeräumt werden, während der Probenahme
+anwesend zu sein.
+
+Die für eine Probe benötigte Putzmörtelmenge ist einem Mörtellos zu entnehmen, das nicht mehr als 10 m3
+beträgt.
+A.2 Probenahmeverfahren
+
+Die Probenahme muss nach einem der in EN 1015-2 genannten Verfahren erfolgen.
+
+ANMERKUNG Die Wahl des Probenahmeverfahrens richtet sich in der Regel nach der physikalischen Beschaffenheit
+des zu beurteilenden Loses.
+
+19
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Anhang B
+(informativ)
+
+Unverbindliche Prüfintervalle bei der werkseigenen
+Produktionskontrolle (WPK)
+
+Gegenstand
+
+Brandverhalten (für
+Putzmörtel, die als
+Bestandteil von
+Bauteilen mit
+Brandschutzauflagen
+vorgesehen sind)?
+
+Tabelle B.1 — Prüfung von Putzmörtel
+
+Zweck der Prüfung
+
+Konformität mit der
+deklarierten Klasse
+
+Unverbindliche Häufigkeit der vom
+Hersteller je Produkttyp
+durchzuführenden Prüfungen
+
+Referenzverfahren?
+
+EN 13501-1 Alle fünf Jahre oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Wasseraufnahme
+für Putzmörtel zur
+Verwendung in
+Außenbauteilen)
+
+Konformität mit der
+deklarierten
+Wasseraufnahmekategorie
+nach EN 998-1
+
+EN 1015-18 Jährlich oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Wasserdurchlässig-
+keit nach
+Bewitterung (nur für
+Einlagenputzmörtel
+für außen)
+
+Konformität mit der
+deklarierten
+Wasserdurchlässigkeits-
+kategorie nach EN 998-2
+
+EN 1015-21 Alle fünf Jahre oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Wasserdampfdurch-
+ässigkeit (für
+utzmörtel zur
+Verwendung in
+Außenbauteilen)
+
+Konformität mit der
+deklarierten
+Wasserdampfdurchlässig-
+keitskategorie nach EN 998-2
+
+EN 1015-19 Jährlich oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Haftzugfestigkeit
+alle Putzmörtel
+außer
+Einlagenputzmörtel
+für außen)
+
+Konformität mit dem
+deklarierten Wert und
+Bruchbild nach EN 998-2
+
+EN 1015-12 Jährlich oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Haftzugfestigkeit
+nach der
+Bewitterung (nur für
+Einlagenputzmörtel
+für außen)
+
+Wärmeleitfähigkeit/
+Dichte (für Putz-
+mörtel, die als
+Bestandteil von
+Bausteinen mit
+Anforderungen an
+Wärmedämmung
+vorgesehen sind,
+außer Wärmedämm-
+putzmörtel)?
+
+20
+
+Konformität mit dem
+deklarierten Wert und
+Bruchbild nach EN 998-2
+
+Konformität mit dem
+deklarierten Wert
+
+EN 1015-21 Alle fünf Jahre oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+EN 1745 Alle fünf Jahre oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+Gegenstand
+
+Wärmeleitfähigkeit
+(nur für Wärme-
+dämmputzmörtel)®
+
+Zweck der Prüfung
+
+Konformität mit dem
+geprüften deklarierten Wert
+
+Referenzverfahren?
+
+EN 1745
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Unverbindliche Häufigkeit der vom
+Hersteller je Produkttyp
+durchzuführenden Prüfungen
+
+Alle fünf Jahre oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Dauerhaftigkeit von
+Einlagenputzmörtel
+für außen (gegen
+Frost/Tauen)
+
+Dauerhaftigkeit für
+alle Putzmörtel
+außer
+Einlagenputzmörtel
+für außen (bei
+Außenanwendung)
+
+Wurde eine Bewertung durch
+Prüfung der Haftzugfestigkeit
+und Wasserdurchlässigkeit
+für Einlagenputzmörtel für
+außen durchgeführt, ist keine
+separate Prüfung notwendig.
+
+Konformität mit dem
+deklarierten Wert
+
+Nationale Prüf-
+verfahren gültig für
+den vorgesehenen
+Verwendungszweck
+
+Wie in der nationalen Bestimmung
+angegeben oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Gefährliche Stoffeb
+
+a
+
+Konformität mit dem
+deklarierten Wert
+
+Nationale Prüf-
+verfahren gültig für
+den vorgesehenen
+Verwendungszweck
+
+Wie in der nationalen Bestimmung
+angegeben oder
+
+wie in der Dokumentation zur WPK
+angegeben.
+
+Die Prüfungen sollten in Übereinstimmung mit den in der Norm angegebenen Referenzverfahren oder durch Verwendung
+
+alternativer Prüfverfahren mit sicherer Übereinstimmung oder einem sicheren Bezug auf das Referenzverfahren durchgeführt
+
+werden.
+
+b
+
+Nur wenn vom Hersteller anhand einer Prüfung deklariert. Es ist nicht notwendig, dass der Hersteller jede Eigenschaft
+
+deklariert, einige dürfen auch auf der Basis beispielsweise tabellierter Werte deklariert werden. Wird ein Wert einer Tabelle
+
+entnommen (tabellierter Wert), ist keine werkseigene Produktionskontrolle notwendig.
+
+21
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Anhang ZA
+(informativ)
+
+Zusammenhang zwischen dieser Europäischen Norm und der
+Verordnung (EU) Nr. 305/2011
+
+(Bei Anwendung dieser Norm als harmonisierte Norm unter der Verordnung (EU)
+Nr. 305/2011 sind Hersteller und Mitgliedstaaten durch diese Verordnung verpflichtet, diesen
+Anhang zu verwenden.)
+
+ZA.1 Anwendungsbereich und maßgebende Merkmale
+
+Diese Europäische Norm wurde gemäß dem von der Europäischen Kommission („Kommission“) und der
+Europäischen Freihandelszone (EFTA) an CEN und CENELEC erteilten Normungsauftrag M 116 ‚Masonry
+and related products‘ erarbeitet.
+
+Wird diese Europäische Norm im Amtsblatt der Europäischen Union unter der Verordnung (EU) Nr.
+305/2011 zitiert, muss es möglich sein, sie ab Beginn der im Amtsblatt der EU festgelegten
+Koexistenzperiode als Grundlage für die Erstellung der Leistungserklärung (DoP; en: Declaration of
+Performance) und der CE-Kennzeichnung anzuwenden.
+
+Die geänderte Verordnung (EU) Nr. 305/20111 enthält Vorschriften für die Leistungserklärungs- und CE-
+Kennzeichnung.
+
+22
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+
+EN 998-1:2016 (D)
+
+Tabelle ZA.1.1 — Maßgebende Abschnitte für Putzmörtel für Außenanwendung
+
+Produkt: Werkputzmörtel folgender Art:
+Normalputzmörtel (GP);
+Leichtputzmörtel (LW);
+Edelputzmörtel (CR);
+Einlagenputzmörtel für außen (0C);
+Sanierputzmörtel (R);
+
+Wärmedämmputzmirtel (T).
+
+Verwendungszweck: Auf Außenwänden, Decken und Pfeilern
+
+Wesentliche Merkmale
+
+Abschnitte dieser
+Europäischen Norm, die
+sich auf Wesentliche
+Merkmale beziehen
+
+Klassen
+und/oder
+Grenzwerte
+
+Anmerkungen
+
+Brandverhalten (für Putzmörtel, die als
+Bestandteil von Bausteinen mit
+Brandschutzauflagen vorgesehen sind)
+
+Wasseraufnahme (für Putzmörtel zur
+Verwendung in Außenbauteilen)
+
+5.3.3
+
+Euroklassen
+A1 bis F
+
+Klassen
+
+Deklarierte Euroklasse
+
+Kategorien (W, 0 bis
+W.2) außer R, hier sind
+deklarierte Werte für die
+Wasseraufnahme
+
+> 0,3 kg/m? nach 24 h)
+erforderlich
+
+Wasserdurchlässigkeit nach
+Bewitterungszyklen (nur für
+Einlagenputzmörtel für außen)
+
+Grenzwert
+
+Wasserdurchlässigkeit
+< 1 ml/cm? nach 48 h)
+
+Wasserdampfdurchlässigkeit (für
+Putzmörtel zur Verwendung in
+Außenbauteilen)
+
+Grenzwert
+
+Deklarierter Beiwert u
+< 15 für R und T)
+
+Haftzugfestigkeit (alle Putzmörtel außer für
+Einlagenputzmörtel für außen)
+
+eklarierter Wert
+N/mm?2) und Bruchbild
+FP)
+
+Haftzugfestigkeit nach der Bewitterung (nur
+für Einlagenputzmörtel für außen)
+
+Deklarierter Wert
+N/mm?) und Bruchbild
+FP)
+
+Wärmeleitfähigkeit/Dichte (für Putzmörtel,
+die als Bestandteil von Bausteinen mit
+Anforderungen an Wärmedämmung
+vorgesehen sind, außer
+Wärmedämmputzmörtel)
+
+Deklarierter tabellierter
+oder gemessener
+Mittelwert (P = 50 %)
+
+Wärmeleitfähigkeit (nur für
+Wärmedämmputzmörtel)
+
+Tabelle 2, L10
+
+Klassen
+
+Kategorien (T1 bis T2)
+
+Dauerhaftigkeit von Einlagenputzmörtel für
+außen (gegen Frost/Tauen)
+
+5.3.2.1
+und Tabelle 2, L4 und L7
+
+Keine
+
+Nach 5.3.2.1 anzugeben
+
+Dauerhaftigkeit für alle Putzmörtel außer
+Einalgenputzmörtel für außen (gegen
+Frost/Tauen)
+
+Gefährliche Stoffe
+
+5.3.2.2
+und Tabelle 2, L3 und L5
+
+Nach 5.3.2.2 anzugeben
+
+Keine Nach 5.3.4 anzugeben
+
+23
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Tabelle ZA.1.2 — Maßgebende Abschnitte für Putzmörtel für Innenanwendung
+
+Produkt: Werkputzmörtel folgender Art:
+—  Normalputzmörtel (GP);
+
+— _ Leichtputzmörtel (LW);
+
+— _ Sanierputzmörtel (R);
+
+— Wärmedämmputzmörtel (T).
+
+Verwendungszweck: Auf Wänden, Decken, Pfeilern und Trennwänden
+
+Abschnitte dieser
+Europäischen Norm, die
+sich auf Wesentliche
+Merkmale beziehen
+
+Klassen
+und/oder Anmerkungen
+Grenzwerte
+
+Wesentliche Merkmale
+
+Brandverhalten (für Putzmörtel, die als
+
+- . . Euroklassen .
+Bestandteil von Bausteinen mit 3, A1 bis F arierte Euroklasse
+Brandschutzauflagen vorgesehen sind)
+
+Kategorien (W, 0 bis W, 2)
+außer R, hier sind
+Wasseraufnahme (für Putzmörtel zur Klassen deklarierte Werte für die
+Verwendung in Außenbauteilen) Wasseraufnahme
+
+(? 0,3 kg/m? nach 24 h)
+erforderlich
+
+Wasserdampfdurchlässigkeit (für
+Putzmörtel zur Verwendung in Grenzwert
+Außenbauteilen)
+
+Deklarierter Beiwert u (<
+15 für R und T)
+
+Deklarierter Wert
+Haftzugfestigkeit (N/mm?2) und Bruchbild
+(FP
+
+Wärmeleitfähigkeit/Dichte (für
+Putzmörtel, die als Bestandteil von Deklarierter tabellierter
+Bausteinen mit Anforderungen an oder gemessener
+Wärmedämmung vorgesehen sind, außer Mittelwert (P = 50 %)
+Wärmedämmputzmörtel)
+
+Wärmeleitfähigkeit (nur für
+
+Wärmedämmputzmörtel) Tabelle 2, L10 Klassen Kategorien (T1 bis T2)
+
+Gefährliche Stoffe 5.3.4 Keine Nach 5.3.4 anzugeben
+
+ZA.2 System der Bewertung und Überprüfung der Leistungsbeständigkeit (AVCP;
+en: Assessment and Verification of Constancy of Performance)
+
+Das System zur Bewertung und Überprüfung der Leistungsbeständigkeit für Putzmörtel nach den Tabellen
+ZA.1.1 bis ZA.1.2 ist den von der Kommission angenommenen Rechtsakten der Kommission zu entnehmen:
+Entscheidung 97/740/EG der Kommission vom 14.10.1997 (ABl. L299 vom 4.11.1997, Seite 42) in
+Ergänzung der Entscheidung 2001/596/EG der Kommission vom 8 Januar 2001 (ABl. L209 vom 2.8.2001,
+Seite 33).
+
+24
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+ZA.3 Zuordnung der Aufgaben zur Bewertung und Überprüfung der
+Leistungsbeständigkeit (AVCP)
+
+Das AVCP-System der in den Tabellen ZA.1.1 bis ZA.1.2 angegebenen Putzmörtel ist in Tabelle ZA.3 definiert
+und ergibt sich aus der Anwendung der dort angegebenen Abschnitte dieser Europäischen Norm oder
+anderer Europäischer Normen. Der Inhalt der Aufgaben der notifizierten Stelle muss sich auf die
+Wesentlichen Merkmale beschränken, die ggf. im AnhangIllI des maßgebenden Normungsauftrags
+angegeben sind und die der Hersteller zu erklären beabsichtigt.
+
+Unter Berücksichtigung der AVCP-Systeme, die für die Produkte und die Verwendungszwecke festgelegt
+sind, sind folgende Aufgaben zur Bewertung und Überprüfung der Leistungsbeständigkeit eines Produkts
+durch den Hersteller durchzuführen.
+
+Tabelle ZA.3 — Zuordnung der Aufgaben zur Bewertung und Überprüfung der
+Leistungsbeständigkeit (AVCP) für Putzmörtel unter System 4
+
+Anzuwendende AVCP-
+Aufgaben Inhalt der Aufgabe Abschnitte
+
+Bewertung der Leistung des | In den Tabellen ZA.1.1 bis ZA.1.2
+Bauprodukts anhand einer | aufgeführte Wesentliche
+Prüfung, einer Berechnung, |Merkmale, die für den(die)
+
+von Werttabellen oder Verwendungszweck(e)
+Unterlagen zur maßgebend sind und die erklärt
+
+Aufgaben des Produktbeschreibung werden.
+
+Herstellers Parameter, die sich auf in den
+Tabellen ZA.1.1 bis ZA.1.2
+aufgeführte Wesentliche
+Merkmale beziehen, die für den
+Verwendungszweck maßgebend
+sind und die erklärt werden.
+
+Werkseigene
+Produktionskontrolle
+(WPK)
+
+25
+
+Normen-Ticker/kompakt - Sto SE & Co. KGaA - Kd.-Nr. 07744102 - Abo-Nr. 01579077/002/001 - 2017-01-24
+
+DIN EN 998-1:2017-02
+EN 998-1:2016 (D)
+
+Literaturhinweise
+
+[1] EN 1015-1, Prüfverfahren für Mörtel für Mauerwerk — Teil 1: Bestimmung der Korngrößenverteilung
+(durch Siebanalyse)
+
+[2] EN 1015-6, Prüfverfahren für Mörtel für Mauerwerk — Teil 6: Bestimmung der Trockenrohdichte von
+Festmörtel
+
+[3] EN 13279 (alleTeile), Gipsbinder und Gips-Trockenmörtel
+
+[4] FprCEN/TR 16886, Leitfaden für die Anwendung statistischer Methoden zur Bestimmung der
+Eigenschaften von Mauerwerk-Produkten
+
+[5] 2003/424/EG, Entscheidung der Kommission vom 6. Juni 2003 zur Änderung der Entscheidung 96/603/EG
+vom 4. Oktober 1996 zur Festlegung eines Verzeichnisses von Produkten, die in die Kategorie A „Kein
+Beitrag zum Brand“ gemäß der Entscheidung 94/611/EG zur Durchführung von Artikel 20 der Richtlinie
+89/106/EWG des Rates über Bauprodukte einzustufen sind (Text von Bedeutung für den EWR) (Bekannt
+gegeben unter Aktenzeichen K(2003) 1673)
+
+[6] EN ISO 9001, Qualitätsmanagementsysteme — Anforderungen (1ISO 9001)
+
+26
+
