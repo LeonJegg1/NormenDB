@@ -38,7 +38,7 @@ folder = r"./pdfs"
 for filename in os.listdir(folder):
     # Nur Dateien zurückgeben (keine Unterordner)
     if os.path.isfile(os.path.join(folder, filename)):
-        doc = extract_text_from_pdf( f'./{folder}/{filename}', lang='deu')
+        doc = extract_text_from_pdf(f'./{folder}/{filename}', lang='deu')
         
         for chunk in doc:
             # Embedding des Dokuments generieren
@@ -58,11 +58,12 @@ for filename in os.listdir(folder):
             if count == 0:
                 # Embedding des Dokuments in die Datenbank einfügen
                 cursor.execute(
-                    sql.SQL("INSERT INTO documents (content, embedding) VALUES (%s, %s)"),
+                    sql.SQL("INSERT INTO documents (content, embedding) VALUES (%s, %s) RETURNING id"),
                     [chunk, embedding]
                 )
+                last_id = cursor.fetchone()[0]
                 conn.commit()
-                last_id = cursor.lastrowid # Gibt immer 0 zurück
+                print(last_id)
                 
                 # TODO: MongoDB - last_id als indentifier - metadaten - entitites durch NER - Chunk-Text - Tags
                 metadata = extract_metadata(f'./{folder}/{filename}')
