@@ -12,7 +12,7 @@ def entitites_from_ner(text):
 
     # Analysiere und kategorisiere mit spaCy
     doc = nlp(text)
-    print("Erkannte Entitäten:", [(ent.text, ent.label_) for ent in doc.ents])
+    # print("Erkannte Entitäten:", [(ent.text, ent.label_) for ent in doc.ents])
 
     categorized_entities = {
         "personen": [],

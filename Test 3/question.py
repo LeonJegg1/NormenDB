@@ -1,6 +1,5 @@
 import ollama
 import psycopg2
-from psycopg2 import sql
 from pymongo import MongoClient
 
 conn = psycopg2.connect(
