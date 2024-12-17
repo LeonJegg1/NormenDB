@@ -41,7 +41,6 @@ def retrieve_embeddings():
         prompt = f"""
         Im Folgenden findest Du Informationen aus einer MongoDB-Datenbank:
 
-        ID: {mongo_result.get('id', 'Unknown')}
         Metadata:
         - Titel: {mongo_result.get('title', 'Unknown')}
         - Autor: {mongo_result.get('author', 'Unknown')}
@@ -52,7 +51,7 @@ def retrieve_embeddings():
         - Gesamtseiten: {mongo_result.get('total_pages', 'Unknown')}
 
         Content-Auszug:
-        "{mongo_result.get('content_excerpt', 'Unknown')}"
+        "{mongo_result.get('content', 'Unknown')}"
 
         Entitäten:
         Personen: {mongo_result.get('entities_persons', [])}

@@ -1,3 +1,4 @@
+from typing import final
 import ollama
 import psycopg2
 from psycopg2 import sql
@@ -47,7 +48,6 @@ def retrieve_embeddings():
         """, (response["embedding"], response["embedding"], threshold))
         
         results = cur.fetchall()
-        results.append(best_result)
         
         all_personen = []
         all_organisationen = []
@@ -61,6 +61,15 @@ def retrieve_embeddings():
         all_gesetze = []
         all_sonstiges = []
         all_tags = []
+
+        all_titles = []
+        all_authors = []
+        all_creators = []
+        all_producers = []
+        all_created_at = []
+        all_modified_at = []
+        all_total_pages = []
+        all_contents = []
 
         for result in results:
             mongo_result = collection.find_one({"id": result[0]})
@@ -78,8 +87,29 @@ def retrieve_embeddings():
                 all_sonstiges.extend(mongo_result.get('entities', {}).get('sonstiges', []))
                 all_tags.extend(mongo_result.get('tags', []))
 
+                all_titles.append(mongo_result.get('metadata', {}).get('title', 'Unknown'))
+                all_authors.append(mongo_result.get('metadata', {}).get('author', 'Unknown'))
+                all_creators.append(mongo_result.get('metadata', {}).get('creator', 'Unknown'))
+                all_producers.append(mongo_result.get('metadata', {}).get('producer', 'Unknown'))
+                all_created_at.append(mongo_result.get('metadata', {}).get('created_at', 'Unknown'))
+                all_modified_at.append(mongo_result.get('metadata', {}).get('modified_at', 'Unknown'))
+                all_total_pages.append(mongo_result.get('metadata', {}).get('total_pages', 'Unknown'))
+                all_contents.append(mongo_result.get('content', 'Unknown'))
+
         final_prompt = f"""
-        Das ist der Kontext:
+        Im Folgenden findest Du Informationen aus einer MongoDB-Datenbank:
+
+        Metadata:
+        - Titel: {all_titles}
+        - Autor: {all_authors}
+        - Creator: {all_creators}
+        - Producer: {all_producers}
+        - Erstellt am: {all_created_at}
+        - Modifiziert am: {all_modified_at}
+        - Gesamtseiten: {all_total_pages}
+
+        Content-Auszug:
+        {all_contents}
 
         Entitäten:
         Personen: {all_personen}
@@ -111,10 +141,11 @@ def retrieve_embeddings():
             model="llama3.1:8b",
             prompt=final_prompt
         )
-        print(output['response'], "\n")	
+        print(final_prompt)
+        print(output['response'], "\n")
     else:
         print("Keine relevanten Ergebnisse gefunden.")
-        
+
 if __name__ == "__main__":
     while True:
         retrieve_embeddings()
