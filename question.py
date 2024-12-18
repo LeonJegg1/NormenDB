@@ -3,6 +3,7 @@ import ollama
 import psycopg2
 from psycopg2 import sql
 from pymongo import MongoClient
+from measssuretime import timeit
 
 conn = psycopg2.connect(
     dbname="normendbvector",
@@ -17,6 +18,7 @@ client = MongoClient("mongodb://root:example@localhost:27017/")
 db = client["pdf_database"]
 collection = db["documents"]
 
+@timeit()
 def retrieve_embeddings():
     # Beispiel-Prompt
     prompt = input("Enter a prompt: ")
@@ -141,7 +143,7 @@ def retrieve_embeddings():
             model="llama3.1:8b",
             prompt=final_prompt
         )
-        print(final_prompt)
+        # print(final_prompt)
         print(output['response'], "\n")
     else:
         print("Keine relevanten Ergebnisse gefunden.")

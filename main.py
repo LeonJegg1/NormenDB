@@ -8,71 +8,87 @@ from extract_text_from_pdf import extract_text_from_pdf
 from metadata_extraction import extract_metadata
 from entitites_from_ner import entitites_from_ner
 from insert_to_mongodb import insert_to_mongodb
+from measssuretime import timeit
 
 #pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-# Verbindung zur PostgreSQL-Datenbank herstellen
-conn = psycopg2.connect(
-    dbname="normendbvector",
-    user="postgres",
-    password="password",
-    host="localhost",
-    port="5433"
-)
-cursor = conn.cursor()
+@timeit()
+def core_comp():
+    # Verbindung zur PostgreSQL-Datenbank herstellen
+    conn = psycopg2.connect(
+        dbname="normendbvector",
+        user="postgres",
+        password="password",
+        host="localhost",
+        port="5433"
+    )
+    cursor = conn.cursor()
 
-cursor.execute("CREATE EXTENSION IF NOT EXISTS vector;")
+    cursor.execute("CREATE EXTENSION IF NOT EXISTS vector;")
 
-# Tabelle "documents" erstellen, falls sie nicht existiert
-cursor.execute("""
-    CREATE TABLE IF NOT EXISTS documents (
-        id SERIAL PRIMARY KEY,
-        content TEXT,
-        embedding VECTOR(1024)
-    );
-""")
-conn.commit()
+    # Tabelle "documents" erstellen, falls sie nicht existiert
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS documents (
+            id SERIAL PRIMARY KEY,
+            content TEXT,
+            embedding VECTOR(1024)
+        );
+    """)
+    
+    # HNSW Index für schnelle Nearest-Neighbor-Suche erstellen
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS documents_embedding_idx 
+        ON documents 
+        USING hnsw (embedding vector_l2_ops)
+        WITH (m = 16, ef_construction = 64);
+    """)
+    
+    conn.commit()
 
-folder = r"./pdfs"
-# For-Schleife, die alle Dateinamen im Ordner durchläuft
-for filename in os.listdir(folder):
-    # Nur Dateien zurückgeben (keine Unterordner)
-    if os.path.isfile(os.path.join(folder, filename)):
-        doc = extract_text_from_pdf(f'./{folder}/{filename}', lang='deu')
-        
-        for chunk in doc:
-            # Embedding des Dokuments generieren
-            try:
-                response = ollama.embeddings(model="mxbai-embed-large", prompt=chunk)
-                embedding = response["embedding"]
-            except Exception as e:
-                print(f"Fehler beim Abrufen des Embeddings: {e}")
-                continue
+    folder = r"./pdfs"
+    # For-Schleife, die alle Dateinamen im Ordner durchläuft
+    for filename in os.listdir(folder):
+        # Nur Dateien zurückgeben (keine Unterordner)
+        if os.path.isfile(os.path.join(folder, filename)):
+            doc = extract_text_from_pdf(f'./{folder}/{filename}', lang='deu')
             
-            # Überprüfen, ob das Embedding bereits in der Datenbank vorhanden ist
-            cursor.execute("""
-                SELECT COUNT(*) FROM documents WHERE embedding = %s::vector;
-            """, (embedding,))
-            count = cursor.fetchone()[0]
-            
-            if count == 0:
-                # Embedding des Dokuments in die Datenbank einfügen
-                cursor.execute(
-                    sql.SQL("INSERT INTO documents (content, embedding) VALUES (%s, %s) RETURNING id"),
-                    [chunk, embedding]
-                )
-                last_id = cursor.fetchone()[0]
-                conn.commit()
-                print(last_id)
+            for chunk in doc:
+                print(chunk)
+                # Embedding des Dokuments generieren
+                try:
+                    response = ollama.embeddings(model="mxbai-embed-large", prompt=chunk)
+                    embedding = response["embedding"]
+                except Exception as e:
+                    print(f"Fehler beim Abrufen des Embeddings: {e}")
+                    continue
                 
-                # TODO: MongoDB - last_id als indentifier - metadaten - entitites durch NER - Chunk-Text - Tags
-                metadata = extract_metadata(f'./{folder}/{filename}')
-                ner_entities, tags = entitites_from_ner(chunk) # sind immer leer
-                insert_to_mongodb(last_id, metadata, chunk, ner_entities, tags)
+                # Überprüfen, ob das Embedding bereits in der Datenbank vorhanden ist
+                cursor.execute("""
+                    SELECT COUNT(*) FROM documents WHERE embedding = %s::vector;
+                """, (embedding,))
+                count = cursor.fetchone()[0]
                 
-                print(f'Dokument {filename} wurde in die Datenbank eingefügt.', last_id)
-            else:
-                print(f'Dokument {filename} ist bereits in der Datenbank vorhanden.')
+                if count == 0:
+                    # Embedding des Dokuments in die Datenbank einfügen
+                    cursor.execute(
+                        sql.SQL("INSERT INTO documents (content, embedding) VALUES (%s, %s) RETURNING id"),
+                        [chunk, embedding]
+                    )
+                    last_id = cursor.fetchone()[0]
+                    conn.commit()
+                    print(last_id)
+                    
+                    # TODO: MongoDB - last_id als indentifier - metadaten - entitites durch NER - Chunk-Text - Tags
+                    metadata = extract_metadata(f'./{folder}/{filename}')
+                    ner_entities, tags = entitites_from_ner(chunk)
+                    insert_to_mongodb(last_id, metadata, chunk, ner_entities, tags)
+                    
+                    print(f'Dokument {filename} wurde in die Datenbank eingefügt.', last_id)
+                else:
+                    print(f'Dokument {filename} ist bereits in der Datenbank vorhanden.')
 
-cursor.close()
-conn.close()
+    cursor.close()
+    conn.close()
+    
+if __name__ == "__main__":
+    core_comp()

@@ -1,0 +1,9 @@
+Enter a prompt: Was sind die Eigenschaften von Einlagenputzmörtel?
+
+Basierend auf den Informationen in der MongoDB-Datenbank ist folgende Antwort erforderlich:
+Die Eigenschaften des Einlagenputzmörtels werden durch Prüfung der Haftzugfestigkeit und der Wasserdurchlässigkeit nach der Bewitterung beurteilt (siehe Tabelle 2, L4 und L7).
+
+
+Enter a prompt: Was ist die Einheit der kapillaren Wasseraufnahme?
+
+Die Einheit der kapillaren Wasseraufnahme ist kg/(m2-min) bzw. kg/m2. (Siehe Abschnitt "5.3.3" im Content-Auszug).

@@ -27,18 +27,3 @@ def extract_text_from_pdf(pdf_path:str, lang:str='deu') -> list:
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
-
-# Path to the PDF file
-# pdf_file_path = r".\pdfs\DINtest-rotated.pdf"
-
-# Extract text (use 'deu' for German, 'eng' for English)
-# extracted_text_chunks = extract_text_from_pdf(pdf_file_path, lang='deu')
-
-# Save the extracted text to a file or print it
-# if extracted_text_chunks:
-#     with open("output.txt", "w", encoding="utf-8") as text_file:
-#         for chunk in extracted_text_chunks:
-#             text_file.write(chunk + "\n\n")
-#     print("Text extraction completed. Saved to output.txt.")
-# else:
-#     print("Failed to extract text.")

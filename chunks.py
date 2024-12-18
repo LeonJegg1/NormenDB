@@ -1,4 +1,13 @@
-def chunks(ocr:str, chunk_size:int=500) -> list:
-    tokens = ocr.split()
-    token_chunks = [' '.join(tokens[i:i + chunk_size]) for i in range(0, len(tokens), chunk_size)]
-    return token_chunks
+from langchain.text_splitter import TokenTextSplitter
+from langchain.schema import Document
+from typing import List
+
+def chunks(text:str, chunk_size:int = 300, chunk_overlap:int = 50) -> List[str]:
+    splitter = TokenTextSplitter(
+        encoding_name="gpt2",
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap
+    )
+    
+    documents = splitter.create_documents([text])
+    return [doc.page_content for doc in documents]
