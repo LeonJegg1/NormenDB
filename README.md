@@ -6,4 +6,6 @@
 
 
 ## Ausführung
-1. `main.py` ausführen
+1. `python3.9` benötigt
+2. `pip install -r requirements.txt` ausführen 
+3. `main.py` ausführen
