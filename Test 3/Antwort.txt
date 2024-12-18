@@ -3,9 +3,3 @@ Enter a prompt: Was sind die Eigenschaften von Einlagenputzmörtel?
 Laut den in der MongoDB-Datenbank gespeicherten Informationen enthält "die eigenschaften von putzmörtel" eine Beschreibung, die auch für Einlagenputzmörtel relevant sein könnte. Allerdings gibt es keine spezifischen Informationen nur zu Einlagenputzmörteln.
 
 Ein möglicher Hinweis darauf, dass Einlagenputzmörtel unter den beschriebenen Eigenschaften fallen könnten, ist der Eintrag "einlagenputzmörtel" in der Liste der Begriffe. Es könnte also davon ausgegangen werden, dass die allgemeinen Eigenschaften von Putzmörteln auf Einlagenputzmörtel anwendbar sind.
-
-Erwartete Antwort z.B:
-- Frostwiderstand
-- Tauwiderstand
-- Haftzugfestigkeit
-- Wasserdurchlässigkeit
