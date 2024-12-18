@@ -1,0 +1,159 @@
+Welches Volumen muss die Frischmörtelprobe mindestens aufweisen?
+Die Frischmörtelprobe muss ein Volumen von mindestens 1,5 l aufweisen oder mindestens dem 1,5-fachen der für die Prüfung erforderlichen Menge entsprechen. (Quelle: EN 1015-2)
+Bewertung 1-5: 5
+Begründung: Angabe der Menge und Einheit ist korrekt.
+--------------------------------------------------
+
+Wie berechnet man den Luftgehalt einer Mörtelprobe?
+Laut dem Inhalt-Auszug wird der Luftgehalt der Mörtelprobe durch Messen des abgefallenen Luftdrucks in der Luftkammer ermittelt. Der Luftdruck wird auf der Skala des Manometers abgelesen und den damit verbundenen Luftgehalt bestimmt.
+Bewertung 1-5: 2
+Begründung: Eine Formel sollte angegeben werden
+--------------------------------------------------
+
+Wie berechnet man den Luftgehalt einer Mörtelprobe? Gib mir die Formel.
+Es gibt keine spezifische Formel in der Datenbank, wie der Luftgehalt einer Mörtelprobe berechnet wird. Es wird jedoch erwähnt, dass der abgefallene Luftdruck in der Luftkammer ein Maß für den Luftgehalt der Mörtelprobe ist und auf der Skale des Manometers abgelesen werden kann.
+Bewertung 1-5: 1
+Begründung: Es gibt eine Formel
+--------------------------------------------------
+
+Wie ist die Einheit der Biegezugfestigkeit f?
+Die Einheit der Biegezugfestigkeit f lautet N/mm. Dies ergibt sich aus dem Abschnitt "8.3 Berechnung und Darstellung der Ergebnisse" im Dokument. Die Formel lautet f = 15 / (b-d) mit b und d in mm, was impliziert, dass die Einheit von f ebenfalls mm ist und daher die Einheit N/mm ist.
+Bewertung 1-5: 3
+Begründung: Die Antwort ist eigentlich korrekt, aber beim Einlesen der Einheit und der Formel wurden Zeichen ausgelassen.
+--------------------------------------------------
+
+Was ist der Anwendungsbereich des Prüfverfahren für Mörtel für Mauerwerk Teil 21: Bestimmung der Verträglichkeit von Einlagenputzmörteln mit Untergründen
+Es tut mir leid, aber in der bereitgestellten MongoDB-Datenbank kann ich keine Informationen zum Anwendungsbereich des Prüfverfahrens für Mörtel für Mauerwerk Teil 21: Bestimmung der Verträglichkeit von Einlagenputzmörteln mit Untergründen finden. Die Datenbank enthält Informationen über verschiedene Dokumente, aber nicht über den spezifischen Anwendungsbereich dieses Prüfverfahrens.
+
+Es ist jedoch erwähnenswert, dass in der Datenbank das Prüfverfahren für Mörtel für Mauerwerk Teil 2: Probenahme von Mörteln und Herstellung von Prüfmörteln (EN 1015-2) und das Prüfverfahren für Mörtel für Mauerwerk Teil 11: Bestimmung der Biege- und Druckfestigkeit von Festmörtel (EN 1015-11) aufgeführt sind, aber nicht die spezifische Norm EN 1015-21.
+Bewertung 1-5: 1
+Begründung: Die Frage scheint zu lang gewesen zu sein und deswegen konnte der Chatbot nichts damit anfangen.
+--------------------------------------------------
+
+Wie teste ich den Mörtel?
+Laut dem Inhalt des Dokuments (EN 1015-6:1998 + A1:2006(D)) müssen Sie Folgendes durchführen, um den Mörtel zu testen:
+
+1. Berechnen Sie den Mittelwert der Eindringtiefe des Fallkörpers in den Mörtel.
+2. Überprüfen Sie, ob die Ergebnisse innerhalb von 10 % voneinander liegen. Wenn nicht, müssen Sie frische Prüfproben aus der Teilprobe oder einem im Labor hergestellten Mörtel entnehmen und die Prüfung wiederholen.
+
+Es ist wichtig zu beachten, dass diese Informationen direkt aus dem Dokument stammen und keine Interpretation oder Erweiterung darstellen.
+Bewertung 1-5: 2
+Begründung: Es ist nur eine Teilantwort
+--------------------------------------------------
+
+Wie bestimmt man die Druckfestigkeit?
+Laut den Informationen aus der MongoDB-Datenbank wird in Kapitel 9.1 Prüfeinrichtung erwähnt, dass eine Prüfmaschine benötigt wird, mit der die Last mit einer in 9.2.2 angegebenen Geschwindigkeit aufgebracht werden kann. Die Maschine muss die Anforderungen der Tabelle 2 erfüllen.
+Bewertung 1-5: 2
+Begründung: Er referenziert auf die korrekten Kapitel und Dokumente, aber die Antwort ist zu Allgemein
+--------------------------------------------------
+
+wodurch wird das eindringmaß einer definierten Frischmörtelprobe ermittelt
+Das Eindringmaß einer definierten Frischmörtelprobe wird durch die vertikale Eindringtiefe eines definierten Eindringstabes mit Fallkörper, der im freien Fall aus einer vorgegebenen Höhe in die Frischmörtelprobe fallengelassen wird, ermittelt. (EN 1015-2)
+Bewertung 1-5: 5
+Begründung: Richtig!
+--------------------------------------------------
+
+Was sind die Kategorien der Druckfestigkeit nach 28 Tagen?
+Laut der Content-Auszug in der MongoDB-Datenbank gibt es zwei Kategorien für die Druckfestigkeit nach 28 Tagen:
+
+- 3,5 N/mm^2 bis 7,5 N/mm^2
+- > 6 N/mm^2
+Bewertung 1-5: 3
+Begründung: Nur die Hälfte der Daten wurde erfasst und ausgegeben
+--------------------------------------------------
+
+Wie sieht der Prüfbericht für Teil 4 aus
+Der Prüfbericht für Teil 4 lautet:
+
+"Prüfbericht Teil 4:
+Die Teilprobe wurde erfolgreich entnommen. Die Bescheinigung über die Probenahme wurde von der verantwortlichen Person ausgestellt und enthält die folgenden Angaben:
+- a) [keine weitere Information in der Datenbank]"
+
+Hinweis: Da keine weiteren Informationen zur Teilprobe im Datenbank-Eintrag vorhanden sind, ist dies die einzige Information, die angegeben werden kann.
+Bewertung 1-5: 2
+Begründung: der richtige Ansatz wurde gefunden aber danach kam leider nichts mehr
+--------------------------------------------------
+
+Welche Prüfnormen müssen in der DIN EN 998-1 beachtet werden?
+Nach dem Inhalt der MongoDB-Datenbank muss die Norm "DIN EN 998-1:2016" beachtet werden. Diese Norm regelt die Anforderungen für bestimmte Baustoffe und Bauwerke, insbesondere für Mörtel und Beton.
+
+Im speziellen ist in dieser Norm festgelegt, dass bestimmte Prüfmethoden durchgeführt werden müssen, um die Qualität der Produkte sicherzustellen. Dazu gehören unter anderem:
+
+* Die Bestimmung der mechanischen Eigenschaften (z.B. Festigkeit, Dehnfestigkeit)
+* Die Bestimmung der chemischen Eigenschaften (z.B. pH-Wert, Schädlichkeit von Inhaltsstoffen)
+* Die Überprüfung der Ausführung und des Verhaltens der Produkte unter bestimmten Bedingungen
+
+Die genauen Anforderungen sind in der DIN EN 998-1:2016 festgelegt und müssen von den Herstellern und Prüflingen eingehalten werden.
+Bewertung 1-5: 2
+Begründung: Gewollte Anwort wäre eine Aufzählung der Prüfnormen keine konkreten Tests
+--------------------------------------------------
+
+Was ist ein Edelputzmörtel?
+Ein Edelputzmörtel ist ein speziell eingefärbter Putzmörtel, der nach Eignungsprüfung hergestellt wird. (Entitäten: Produkte)
+Bewertung 1-5: 5
+Begründung: Spezifisch und zutreffend
+--------------------------------------------------
+
+Für was steht die Abkürzung CR?
+Die Abkürzung "CR" ist in den gegebenen Daten nicht explizit erwähnt. Es könnte sich um eine Abkürzung aus einem anderen Kontext handeln, der nicht in der Datenbank enthalten ist.
+Bewertung 1-5: 1
+Begründung: Es gibt ein Abkürzungs-Abschnitt. CR -> Edelputzmörtel
+--------------------------------------------------
+
+ws itts edelputzmörtel?
+Nach den Informationen aus der MongoDB-Datenbank gibt es keinen direkten Hinweis auf "edelputzmörtel". Es wird jedoch erwähnt, dass "Sanierputzmörtel" ein Putzmörtel ist, der für das Verputzen von feuchten Mauerwerken geeignet ist. Der Begriff "edel" erscheint nicht explizit in der Datenbank.
+Bewertung 1-5: 2
+Begründung: Rechtschreibfehler werden nicht gut bearbeitet
+--------------------------------------------------
+
+wo wird die prüfung der Verarbeitbarkeitszeit genauer definiert?
+Die Prüfung der Verarbeitbarkeitszeit wird in der Norm EN 1015-9:1999 + A1:2006 (D) genau definiert. Dies steht auf Seite 2 des Content-Auszugs unter dem Punkt "EN 1015-9:1999 + A1:2006 (D)".
+Bewertung 1-5: 5
+Begründung: Richtig
+--------------------------------------------------
+
+Was sind die Eigenschaften des Frischmörtels?
+Die Eigenschaften des Frischmörtels werden in der Tabelle 1 klassifiziert, aber es ist nicht explizit erwähnt, was genau diese Eigenschaften sind. Es wird jedoch erwähnt, dass die Druckfestigkeit, die Wasseraufnahme und die Wärmeleitfähigkeit nach Tabelle 1 zu klassifizieren sind.
+Bewertung 1-5: 3
+Begründung: Falsche Referenzierung. Es gibt einen Abschnitt der das genauer beschreibt.
+--------------------------------------------------
+
+In welchem Dokument werden Gesteinskörnungen thematisiert?
+Nachdem ich durch die Datenbank gegangen bin, kann ich keine Hinweise auf ein Dokument finden, das explizit "Gesteinskörnungen" oder ähnliche Begriffe enthält. Es wird jedoch über Mörtel und Bindemittel gesprochen. Der einzige mögliche Ansatzpunkt ist der Eintrag "EN 998-1", der Festlegungen für Mörtel im Mauerwerksbau beschreibt, aber es gibt keinen Hinweis darauf, dass er explizit Gesteinskörnungen thematisiert.
+Bewertung 1-5: 1
+Begründung: EN 1015-6, wäre die korrekte Antwort
+--------------------------------------------------
+
+Erläutere den begriff des Wasserdampf-Diffusionsdurchlasskoeffizient
+Der Begriff "Wasserdampf-Diffusionsdurchlasskoeffizient" ist in der Datenbank unter dem Titel "4.1.1 Wassertropfen-Diffusionsstrom je Flächeneinheit..." beschrieben. Er wird als ein Maß für den Wasserdampf-Diffusionsstrom definiert, der je Flächeneinheit unter Gleichgewichtsbedingungen bei einer Wasserdampf-druckdifferenz von 1 zwischen den beiden Seiten des Materials gilt.
+
+Die genaue Definition lautet: "Wasserdampf-Diffusionsdurchlasskoeffizient, (kg/m2 . s - Pa);".
+Bewertung 1-5: 4
+Begründung: Erklärung richtig, Formel teils
+--------------------------------------------------
+
+was muss der Prüfbericht für  die Bestimmung des Gehaltes an wasserlöslichem Chlorid von Frischmörteln enthalten
+Basierend auf den Informationen in der MongoDB-Datenbank ist Folgendes entscheidende Punkte, die ein Prüfbericht für die Bestimmung des Gehalts an wasserlöslichem Chlorid von Frischmörteln enthalten sollte:
+
+- **Vorlage und Herstellung der Proben**: 
+  - Aus dem Mörtel wird ein wässriges Extrakt hergestellt, das wasserlösliches Chlorid enthält.
+  
+- **Fällung mit Standard-Silbernitratlösung**:
+  - Ein bekanntes Volumen einer Standard-Silbernitratlösung wird verwendet.
+
+- **Oxidation von Sulfid zu Sulfat und Waschen**:
+  - Möglicherweise enthaltenes Sulfid wird oxidiert oder zersetzt, so dass es sich nicht störend auf die Bestimmung auswirkt.
+  - Das Fällungsprodukt mit verdünnter Salpetersäure wird gewaschen und beiseite gestellt.
+
+- **Filtrieren und Abkühlen**:
+  - Das Filtrat und die Waschflüssigkeiten werden auf eine Temperatur unter 25 °C abgekühlt.
+
+- **Titration mit Standard-Ammoniumthiocyanatlösung**:
+  - Als Indikator wird ein Fe(I)-Salz verwendet.
+  - Mit diesem Verfahren wird der Gesamtgehalt an wasserlöslichem Chlorid bestimmt.
+
+Insgesamt werden alle diese Punkte entscheidend für die Bestimmung des Gehalts an wasserlöslichem Chlorid von Frischmörteln und sollten daher im Prüfbericht enthalten sein.
+Bewertung 1-5: 2
+Begründung: Es war keine Erläuterung gefordert.
+--------------------------------------------------
+

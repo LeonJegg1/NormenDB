@@ -4,6 +4,8 @@ import psycopg2
 from psycopg2 import sql
 from pymongo import MongoClient
 from measssuretime import timeit
+from write_test import tests
+
 
 conn = psycopg2.connect(
     dbname="normendbvector",
@@ -145,6 +147,7 @@ def retrieve_embeddings():
         )
         # print(final_prompt)
         print(output['response'], "\n")
+        # tests(prompt, output['response'])
     else:
         print("Keine relevanten Ergebnisse gefunden.")
 
